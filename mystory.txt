@@ -7,7 +7,8 @@ I am only working weekends while Im at DEV Code Camp.
 My favorite part of my job is doing custom designs for engagement rings. 
 You start with only a center stone and you end with a piece of someone's dreams that they'll wear the rest of their lives. 
 
-I have a cat named Peterson.
+I have a cat named Sushi.
+>>>>>>> 1986f62fbaca6d7639f092676b3117d4326b63f6
 I love to hike, and kayak. 
 I have a friend who is a comedian so I go to a lot of comdey clubs.
 I love watching hockey and football. 
@@ -22,7 +23,7 @@ I love watching hockey and football. I would like to move to Arizona eventually.
 
 I am really excited about how much I am learning at devcodecamp and hope I'll be able to keep up wih everything. 
 
-Boo coding!
+Boo coding!!!!
 
 
 
@@ -62,3 +63,5 @@ Heck, all those things are right in my field of passion.
 Sign me up, was all I could think about.
 My husband was supose to start this summer first, but things happen, which made me have to quite my woderful job that I had taken a real liking to. 
 Here I am, overwhelmed first day, second day and everyday here on.
+
+I dont know what I'm doing
