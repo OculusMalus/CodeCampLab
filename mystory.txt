@@ -1,7 +1,10 @@
-Hi, my name is Damon Young. I live in Greendale with my wife and two children (ages 15 and 12). I'm originally from Logansport, Indiana, went to college at the University of Dayton and the University of San Francisco.
+I'm Shae, I'm from Chicago originally. I just moved from Milwaukee to kenosha to attend devcodecamp. I am a DCA certified 
+Diamondtologist, I work at Kay Jewelers currently. I am only working weekends while Im at devcodecamp. My favorite part of 
+my job is doing custom designs for engagement rings. You start with only a center stone and you end with a piece of
+someone's dreams that they'll wear the rest of their lives. 
 
-I recently worked for MLB.com as an Editorial Producer, writing and editing daily content. I have some coding experience, but not recently and not in C# or Python.
+I have a cat named Sushi. I love to hike, and kayak. I have a friend who is a comedian so I go to a lot of comdey clubs.
+I love watching hockey and football. I would like to move to Arizona eventually. I have never been out of the country
+(unless you count a cruise to the bahamas) 
 
-My goal is to use my new coding skills in an athletics/sports organization.
-
-I enjoy running and coaching baseball. I vacationed in Myrtle Beach this summer.
+I am really excited about how much I am learning at devcodecamp and hope I'll be able to keep up wih everything. 
