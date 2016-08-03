@@ -7,9 +7,8 @@ I am only working weekends while Im at DEV Code Camp.
 My favorite part of my job is doing custom designs for engagement rings. 
 You start with only a center stone and you end with a piece of someone's dreams that they'll wear the rest of their lives. 
 
-
-
 I have a cat named Sushi.
+>>>>>>> 1986f62fbaca6d7639f092676b3117d4326b63f6
 I love to hike, and kayak. 
 I have a friend who is a comedian so I go to a lot of comdey clubs.
 I love watching hockey and football. 
@@ -24,7 +23,7 @@ I love watching hockey and football. I would like to move to Arizona eventually.
 
 I am really excited about how much I am learning at devcodecamp and hope I'll be able to keep up wih everything. 
 
-Yay coding!
+Boo coding!!!!
 
 
 
@@ -45,6 +44,5 @@ But taking the challenge I went full blown on organization, planning, plotting, 
 I over exhasted myself with more projects than my personal life can handle.
 The husband and I divorced and I had to figure out the next chapter of life.
 I decided to Marry Channing Tatum instead, and now I'm the happiest I have ever been!
-
 
 I dont know what I'm doing
