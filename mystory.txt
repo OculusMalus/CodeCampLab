@@ -1,4 +1,4 @@
-Hey everyone, I'm Shae, I'm from Chicago originally. 
+gitHey everyone, I'm Shae, I'm from Chicago originally. 
 
 I just moved from Milwaukee to Kenosha to attend DEV Code Camp. 
 I am a DCA certified Diamondtologist. 
@@ -64,3 +64,11 @@ My husband was supose to start this summer first, but things happen, which made 
 Here I am, overwhelmed first day, second day and everyday here on.
 
 I dont know what I'm doing
+
+********
+
+Hi, my name is Damon. I live in Greendale with my wife and two children (ages 15 and 12). I'm originally from Logansport, Indiana, went to college at the University of Dayton and the University of San Francisco.
+
+I recently worked for MLB.com as an Editorial Producer, writing and editing daily content. I have some coding experience, but not recently and not in C# or Python.
+
+My goal is to use my new coding skills in an athletics/sports organization. I enjoy running and coaching baseball. I vacationed in Myrtle Beach this summer.
