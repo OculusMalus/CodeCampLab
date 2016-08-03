@@ -1,4 +1,5 @@
 Hey everyone, I'm Shae, I'm from Chicago originally. 
+
 I just moved from Milwaukee to Kenosha to attend DEV Code Camp. 
 I am a DCA certified Diamondtologist. 
 I work at Kay Jewelers currently. 
@@ -21,7 +22,7 @@ I love watching hockey and football. I would like to move to Arizona eventually.
 
 I am really excited about how much I am learning at devcodecamp and hope I'll be able to keep up wih everything. 
 
-Yay coding!
+Boo coding!
 
 
 
